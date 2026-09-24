@@ -2,6 +2,8 @@
 
 ![ProposalCraft AI Demo](./demo.gif)
 
+🎬 **[Watch Full Narrated Video Demo with Voiceover (MP4)](./demo_narrated.mp4)**
+
 **ProposalCraft AI** is an intelligent solution architecture and project management co-pilot built with Google's Agent Development Kit (ADK) and deployed on Google Cloud Agent Platform. It assists project managers, solution architects, and technical sales teams with drafting proposal scope, retrieving proposal records, estimating effort & financial budgets, and generating visual cloud architecture blueprints.
 
 ---
